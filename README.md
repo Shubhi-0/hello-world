@@ -1,2 +1,3 @@
 # hello-world
-First repository
+“Let us step into the night and pursue that flighty temptress, adventure.”
+                                                                        - Albus Dumbledore
